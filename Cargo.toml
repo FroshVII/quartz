@@ -4,5 +4,3 @@ version = "0.0.0"
 authors = ["cmarcbs7 <smith7@uchicago.edu>"]
 edition = "2018"
 description = "Rhythm game synchronization tool"
-
-[dependencies]

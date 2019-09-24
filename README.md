@@ -1,2 +1,2 @@
-# quartz
+# Quartz
 Rhythm game synchronization tool
